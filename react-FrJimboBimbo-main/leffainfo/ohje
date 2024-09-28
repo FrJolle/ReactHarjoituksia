@@ -1,0 +1,8 @@
+Elokuvasivut: 
+selaa elokuvia, 
+lisää uusi elokuva, 
+lisää elokuva-arviointi (tähdet), 
+järjestä elokuvat tähtien antamaan järjestykseen (laske tähtien keskiarvo), 
+käytä react-routeria (elokuvan lisäys omalle sivulleen), 
+lisää filterit elokuville (vuosiluvun mukaan 2000-2010 tehdyt elokuvat, 
+ja genren mukaan "horror", "comedy")  

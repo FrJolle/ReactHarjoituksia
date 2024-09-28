@@ -1,0 +1,8 @@
+DELETE http://localhost:3001/notes/7 HTTP/1.1
+content-type: application/json
+
+{
+    "content": "",
+    "date": "2022-01-10T17:30:31.098Z",
+    "important": false
+}

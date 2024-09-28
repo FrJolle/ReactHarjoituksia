@@ -1,0 +1,6 @@
+http://localhost:3001/auth/login
+
+{
+  "username": "testuser2",
+  "password": "testpassword"
+}
